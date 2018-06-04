@@ -69,3 +69,7 @@ footer{
   float: center;
 }
 
+progress{
+  height: 10px;
+  width: 70px;
+}

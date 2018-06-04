@@ -1,0 +1,71 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto');
+
+html{
+  background-color: #87CEFA;
+}
+
+header{
+  padding: 25px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+body {
+  background-color: #90EE90;
+  width: 760px;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+  padding: 0px 10px;
+  font-size: 18px;
+}
+
+h1 {
+  font-family: 'Merriweather';
+  font-size: 32px;
+  text-align: center
+}
+
+p{
+  text-align: justify;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal
+}
+
+ul{
+  style="list-style-type:disc";
+}
+
+li{
+  font-family: 'Roboto',sans-serif;
+  text-align: left;
+}
+
+table{
+  border: 0;
+}
+
+section{
+  background-color: #90EE90;
+}
+
+.coluna1{
+  height: 700px;
+  width: 250px;
+  float: left;
+  padding: 0px;
+}
+
+.coluna2{
+  height: 880px;
+  width: 500px;
+  float: right;
+  padding: 0px;
+}
+
+footer{
+  padding: 20px;
+  text-align: left;
+  float: center;
+}
+

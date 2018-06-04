@@ -57,7 +57,7 @@ section{
 }
 
 .coluna2{
-  height: 950px;
+  height: auto;
   width: 500px;
   float: right;
   padding: 0px;

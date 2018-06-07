@@ -27,7 +27,7 @@ h1 {
 }
 
 p{
-  text-align: justify;
+  text-align: justify-all;
   font-family: 'Roboto', sans-serif;
   font-style: normal
 }
@@ -73,8 +73,9 @@ progress{
   height: 10px;
   width: 70px;
 }
+
 /* Center the loader */
-.loader {
+#loader {
   position: absolute;
   left: 50%;
   top: 50%;
@@ -120,7 +121,7 @@ progress{
   to{ bottom:0; opacity:1 }
 }
 
-.myDiv {
+#myDiv {
   display: none;
   text-align: center;
 }
